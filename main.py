@@ -48,3 +48,5 @@ def cleaning_text(captions):
             img_caption=' '.join (desc)
             caption[img][i]=img_caption
     return captions
+
+    
