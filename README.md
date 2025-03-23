@@ -1,8 +1,14 @@
 Image Caption Generator Project README
+
+
 Project Overview
+
+
 This project is an Image Caption Generator that uses deep learning to generate textual descriptions for images. It leverages a Convolutional Neural Network (CNN) for feature extraction and a Recurrent Neural Network (RNN) with an LSTM layer for sequence generation. The model is trained on the Flickr8k dataset, which contains images and their corresponding captions.
 
 Features
+
+
 Extracts image features using a pre-trained Xception CNN.
 
 Processes textual descriptions using tokenization, embedding, and sequence padding.
